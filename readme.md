@@ -12,3 +12,4 @@
 
 [Google](https://www.google.com/)
 [Every end - GD](https://www.youtube.com/watch?v=C7Umvy4VyDg&themeRefresh=1)
+¡[chocolate](assets/images/chocolate.jpg)
