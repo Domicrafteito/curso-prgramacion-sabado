@@ -5,7 +5,9 @@
 ### Clase 2 HTML- Importar fuentes- iconos
 - Introduccion a CSS
 ### Clase 3 introduccion a GIT
-- Que es git
-- Hacer mi primer commit
-- Archivo readme
-- Lenguaje markdown
+1. Que es git
+2. Hacer mi primer commit
+3. Archivo readme
+4. Lenguaje markdown
+
+[Google](https://www.google.com/)
