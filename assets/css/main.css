@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+ *,
+ *::before,
+ *::after {
+    box-sizing: border-box; /*evita que las cajas se desborden*/
+    margin: 0;
+    padding: 0;
+ }
+ :root{
+    --main-color: #010736;
+    --secundary-color: #0D1C42;
+    --blue-light: #22396F;
+    --yellow-light: #FCF1D0;
+    --white: #ffff;
+    --black: #0000;
+ }
+ body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+     font-family: "VT323", monospace;
+ }
+ .navbar {
+    background-color: var(--main-color);
+    padding: 1.2rem;
+    font-weight: 900;
+    text-transform: uppercase;
+ }
+ ul {
+    list-style: none;
+ }
+ a {
+    color: var(--secundary-color);
+    text-decoration: none;
+ }
+ .navbar-list{
+    display: flex;
+    list-style: none;
+    gap: 0.67rem;
+    align-items: center;
+ }
+ .nav-link {
+ padding: 1.5rem 0.75rem;
+    color: var(--blue-light);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: color 0.2s ease, background-color 0.2s ease;
+ }
+ .nav-link:hover,
+ .nav-link:focus-visible {
+    color: var(--yellow-light);
+    outline: none;
+ }
+ .navbar-brand img {
+    height: 2rem;
+    width: auto;
+    display: block;
+ }
