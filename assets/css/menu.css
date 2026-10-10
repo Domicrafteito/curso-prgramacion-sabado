@@ -1,0 +1,29 @@
+.navbar {
+    background-color: var(--main-color);
+    padding: 1.2rem;
+    font-weight: 900;
+    text-transform: uppercase;
+ }.navbar-list{
+    display: flex;
+    list-style: none;
+    gap: 0.67rem;
+    align-items: center;
+ }
+.nav-link {
+ padding: 1.5rem 0.75rem;
+    color: var(--blue-light);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: color 0.2s ease, background-color 0.2s ease;
+ }
+ .nav-link:hover,
+ .nav-link:focus-visible {
+    color: var(--yellow-light);
+    outline: none;
+ }
+ .navbar-brand img {
+    height: 2rem;
+    width: auto;
+    display: block;
+ }
