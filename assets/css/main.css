@@ -3,6 +3,7 @@
 @import url(quienes-somos.css);
 @import url(servicios.css);
 @import url(footer.css);
+@import url(contacto.css);
 
  *,
  *::before,
@@ -29,7 +30,7 @@ ul {
     list-style: none !important;
  }
 a {
-    color: var(--secundary-color);
+    color: var(--white);
     text-decoration: none;
  }
 
