@@ -13,3 +13,15 @@
 [Google](https://www.google.com/)
 [Every end - GD](https://www.youtube.com/watch?v=C7Umvy4VyDg&themeRefresh=1)
 ![chocolate](assets/images/chocolate.jpg)
+### CLASE 4 MENU DE SITIO WEB
+### CLASE 5 SECCION DE SERVICIOS
+### CLASE 6 SERVICIOS FOOTER
+### CLASE 7 EVALUACION DE INGLES
+### CLASE 8 SOLUCIONANDO ERRORES
+### CLASE 9
+- Contacto
+- Google Maps
+### CLASE 10 - ANIMACIONES
+### CLASE 11 - RESPONSIVE
+### CLASE 12 - EVALUACION
+### CLASE 13 - TAILWIND
